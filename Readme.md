@@ -1,7 +1,3 @@
-Here’s a sample README file for your GitHub project showcasing the website for a pool builder:
-
----
-
 # Stormy Pools | Pool Builder Website
 
 
