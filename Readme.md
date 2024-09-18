@@ -1,5 +1,6 @@
 # Stormy Pools | Pool Builder Website
 
+![Website Preview](https://therealhazem.github.io/Stormy-Site/assets/images/pool_preview.jpg)
 
 Welcome to the official website of **Stormy Pools** – your go-to experts for premium pool designs and construction. Explore our wide range of pool building services, breathtaking designs, and customization options tailored to turn your backyard into a luxurious oasis.
 
@@ -11,6 +12,7 @@ Welcome to the official website of **Stormy Pools** – your go-to experts for p
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
+- [Authors](#authors)
 - [License](#license)
 
 ## About the Project
@@ -61,3 +63,18 @@ Contributions are welcome! If you would like to suggest improvements or fix any 
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## Authors
+
+- **Mohamed Hany**
+  - Email: [mohamedharidy12123@gmail.com](mailto:mohamedharidy12123@gmail.com)
+  - GitHub: [moharidy05](https://github.com/moharidy05)
+  
+- **Hazem Mohamed**
+  - Email: [mkere255@gmail.com](mkere255@gmail.com)
+  - GitHub: [therealhazem](https://github.com/therealhazem)
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
