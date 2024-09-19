@@ -30,7 +30,7 @@ This website is designed to showcase the services of a professional pool builder
 - **HTML5**: Structuring the content of the website.
 - **CSS3**: Styling for layout, typography, and responsive design.
 - **JavaScript**: Enhancing interactivity and user experience.
-- **Bootstrap**: For fast, responsive design framework.
+- **Tailwind CSS**: For fast, responsive design framework.
 
 ## Getting Started
 
@@ -71,7 +71,7 @@ Contributions are welcome! If you would like to suggest improvements or fix any 
   - GitHub: [moharidy05](https://github.com/moharidy05)
   
 - **Hazem Mohamed**
-  - Email: [mkere255@gmail.com](mkere255@gmail.com)
+  - Email: [therealhazemelgindy@gmail.com](therealhazemelgindy@gmail.com)
   - GitHub: [therealhazem](https://github.com/therealhazem)
 
 ## License
