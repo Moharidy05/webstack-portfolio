@@ -44,7 +44,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/therealhazem/Stormy-Site.git
+    git clone https://github.com/Moharidy05/webstack-portfolio.git
     ```
 
 2. Open the `index.html` file in your browser:
