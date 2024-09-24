@@ -1,6 +1,6 @@
 # Stormy Pools | Pool Builder Website
 
-![Website Preview](https://therealhazem.github.io/Stormy-Site/assets/images/pool_preview.jpg)
+![Website Preview](https://therealhazem.github.io/Stormy-Site/)
 
 Welcome to the official website of **Stormy Pools** – your go-to experts for premium pool designs and construction. Explore our wide range of pool building services, breathtaking designs, and customization options tailored to turn your backyard into a luxurious oasis.
 
